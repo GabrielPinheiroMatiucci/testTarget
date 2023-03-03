@@ -31,4 +31,4 @@ function solutionOne() {
   console.log(SOMA); // 91
 }
 
-solutionOne();
+module.exports = solutionOne;
